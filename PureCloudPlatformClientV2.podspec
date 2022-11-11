@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.source = { :git => 'https://github.com/MyPureCloud/platform-client-sdk-ios.git', :tag => '98.0.0' }
   s.authors = 'Genesys Developer Evangelists'
   s.social_media_url = 'https://twitter.com/PureCloud_Dev'
-  s.docset_url = 'https://developer.mypurecloud.com/api/rest/client-libraries/ios/'
+  #s.docset_url = 'https://developer.mypurecloud.com/api/rest/client-libraries/ios/'
   s.license = 'MIT'
   s.homepage = 'https://developer.mypurecloud.com/'
   s.summary = 'An iOS library to interface with the PureCloud Platform API'
